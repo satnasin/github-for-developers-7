@@ -1,0 +1,2 @@
+[name satnam]
+[place bangalore]
